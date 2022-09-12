@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#dropdown-area {
+  height: 40px;
+  background-color: black;
+}
+#dropdown-area .dropdown {
+  margin-top: 6px;
+  margin-left: 20px;
+}
+#dropdown-area .dropdown span {
+  color: white;
+}
+#dropdown-area .dropdown .btn-group .btn-color {
+  margin-top: -2px;
+  background-color: black;
+}
+#dropdown-area .header-right i {
+  margin-left: 35px;
+  margin-top: 10px;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+}
+#dropdown-area .header-right .user-img {
+  width: 25px;
+  border-radius: 50%;
+  cursor: pointer;
+  margin-top: -57px;
+  margin-left: 150px;
+}
+
+#logo-search {
+  height: 100px;
+  background-color: #F3F3F4;
+}
+#logo-search .logo {
+  margin-top: 35px;
+  margin-left: 24px;
+  cursor: pointer;
+}
+#logo-search .example input {
+  padding: 10px;
+  font-size: 17px;
+  width: 80%;
+  margin-top: 26px;
+  margin-left: 96px;
+}
+#logo-search .example button {
+  padding: 10px;
+  font-size: 17px;
+  border-left: none;
+  cursor: pointer;
+}
+#logo-search .example i {
+  margin-left: -40px;
+}/*# sourceMappingURL=home.css.map */
